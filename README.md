@@ -8,6 +8,7 @@ I will be working with two datasets for this project (Argos_UK and product Revie
 Agros is a United Kinngdom manufacturer of various household items. Some of these items include home furnitures, blinds and curtains, vacume cleaners and beddings. Agros has just started business in 2023 and has all its existing data in two excel file. The information from the metadata (Agros_uk) includes the following columns;
 
 ID - The product Number
+
 Category - Group of related goods
 Sub-Category - Subset of items
 Product Type - Information of a particular category or class of products
