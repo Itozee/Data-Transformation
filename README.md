@@ -10,25 +10,38 @@ Agros is a United Kinngdom manufacturer of various household items. Some of thes
 ID - The product Number
 
 Category - Group of related goods
+
 Sub-Category - Subset of items
+
 Product Type - Information of a particular category or class of products
+
 Product Line - Strategic grouping of products
+
 Product Line Item - Detailed record of information about a particular item
+
 Product Price - Price of the Product
+
 Ean Code - European Article Number
 
 Agros also have a product reviews excel document that shows new information on the product reviews throughout the year. The information from the product review includes the following columns;
 
 Product_Ean - European Article Number
+
 Review_Text - Condition of the product
+
 Review_Rating - Review rating from 1-10
+
 Product_Line_Item - Detailed record of information about a particular item
 
 Agros have identified the need to clean the data before the data can be loaded into PowerBI for visualization. They also want the data limited to specific information from the metadata. The tasks that have been given to the data analyst are;
 
 •	What is the aggregate average price of various blankets and throws product type?
+
 •	How many unique line items are in blankets and throws product type? 
+
 •	Change ID 5181's price to 500
+
 •	Delete all information that relates to ID 5182
+
 •	Join the tables Agros and Product review to show some existing information from the metadata set and include the review_rating from product reviews table.
 
