@@ -1,4 +1,4 @@
-# Data-Transformation
+# Data-Transformations
 Performing some basic SQL Functions
 
 I will be working with two datasets for this project (Argos_UK and product Review).
