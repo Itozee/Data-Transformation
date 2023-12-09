@@ -1,5 +1,0 @@
-```
---SELECT AVG price of Blanket and Throws FROM ARGOS_UK
- SELECT AVG(`Product Price`) AS average_price 
- FROM argos_uk;
-```
