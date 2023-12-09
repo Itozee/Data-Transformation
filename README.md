@@ -45,3 +45,6 @@ Agros have identified the need to clean the data before the data can be loaded i
 
 •	Join the tables Agros and Product review to show some existing information from the metadata set and include the review_rating from product reviews table.
 
+# Reflection
+I utilized MySQL as the database management system for conducting data transformations in our project. These transformations encompassed several key tasks, including data aggregation, augmenting the metadata set with additional information sourced from related data, and implementing data cleaning procedures to correct errors. Additionally, the process involved converting data from one format or structure to another. This comprehensive transformation process plays a vital role in Agros' end-to-end pipeline, contributing to informed decision-making at every stage.
+
