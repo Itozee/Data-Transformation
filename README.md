@@ -33,6 +33,7 @@ Review_Rating - Review rating from 1-10
 
 Product_Line_Item - Detailed record of information about a particular item
 
+# Task
 Agros have identified the need to clean the data before the data can be loaded into PowerBI for visualization. They also want the data limited to specific information from the metadata. The tasks that have been given to the data analyst are;
 
 •	What is the aggregate average price of various blankets and throws product type?
